@@ -1,12 +1,12 @@
-package Data;
-
+/*package Data;
 
 import Data.Joueur;
+import java.util.ArrayList;
 
 public class ProprieteAConstruire extends CarreauPropriete {
 	private int _nbMaisons = 0;
 	private int _nbHotels = 0;
-	private java.util.ArrayList<int> _loyer1maison;
+	private ArrayList<int> _loyer1maison;
 	private int _loyer2maisons;
 	private int _loyer3maisons;
 	private int _loyer4maisons;
@@ -32,4 +32,4 @@ public class ProprieteAConstruire extends CarreauPropriete {
 	public int Calcul_Loyer_Propriete() {
 		throw new UnsupportedOperationException();
 	}
-}
+}*/
