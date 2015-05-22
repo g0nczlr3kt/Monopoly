@@ -1,4 +1,9 @@
-public class Gare extends CarreauPropriete {
+package Data;
+
+
+import Data.Joueur;
+
+public class Compagnie extends CarreauPropriete {
 
 	public void action(Joueur aJ) {
 		throw new UnsupportedOperationException();
